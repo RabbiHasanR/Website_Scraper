@@ -16,13 +16,35 @@ class Scraper():
                 if children:
                     #print(children[0]['href'],children[0].string)
                     return children[0]['href']
-                    
 
-    def get_course_category(self):
+    
+    def get_course_category(self,link):
+        referer_agent_response,google_agent_response,randm_agent_response=request.Request(link).get_all_response()
+        if referer_agent_response is not None:
+            soup = BeautifulSoup(referer_agent_response.content,features="html.parser")  
+            myul=soup.find_all('ul',{'class':'menu-cats'})
+
+            if myul:
+                for ul in myul:
+                    myli=ul.findChildren('li')
+                    for li in myli:
+                        #print(li)
+                        spans=li.findChildren('span',recursive=False)
+                        #print(spans)
+                        for s in spans:
+                            #print(s)
+                            a_tag=s.findChildren('a',recursive=False)
+                            #print(a_tag)
+                            if a_tag:
+                                print(a_tag[0]['href'],a_tag[0].string)
+
+
+    def get_courses(self):
         referer_agent_response,google_agent_response,randm_agent_response=request.Request(self.url).get_all_response()
         if referer_agent_response is not None:
             link=self.all_course_link(referer_agent_response)
-            print(link)
+            #print(link)
+            self.get_course_category(link)
         else:
             if google_agent_response is  not None:
                 pass
@@ -32,4 +54,4 @@ class Scraper():
 if __name__ == "__main__":
     url=input('Enter Url:')
     scraper=Scraper(url)
-    scraper.get_course_category()
+    scraper.get_courses()
