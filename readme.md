@@ -15,13 +15,13 @@ python scraper.py
 Use python version: Python 3.8.2
 ```
 virtualenv scraper-env
-source mypython/bin/activate
+source scraper-env/bin/activate
 pip install requirements.txt
 python scraper.py
+Enter url:https://newskillsacademy.co.uk/
 ```
 
 # Usages
-Enter url:https://newskillsacademy.co.uk/
-after input url then this scraper automatically create directory and file one by one and save all course information in file.This scraper take some time for get all info and save.If you reduce execution time then you use threading.
+After input url then this scraper automatically create directory and file one by one and save all course information in file.This scraper take some time for get all info and save.If you reduce execution time then you use threading.
 # In future
 I will add threading  and  infinit scrolling page scraping feature.
