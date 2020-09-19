@@ -6,7 +6,16 @@ For any python programmer this is nice scrapping tools for get some knowladege a
 Use python version: Python 3.8.2
 ```
 virtualenv scraper-env
-source scraper-env/bin/activate
+scraper-env\Scripts\activate
+pip install requirements.txt
+python scraper.py
+```
+
+# Installation process for linux or ubuntu or mac
+Use python version: Python 3.8.2
+```
+virtualenv scraper-env
+source mypython/bin/activate
 pip install requirements.txt
 python scraper.py
 ```
