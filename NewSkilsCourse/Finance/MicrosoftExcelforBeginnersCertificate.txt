@@ -1,0 +1,67 @@
+Course details 
+Course Code: UKFEC16MXB
+Location: Online
+Duration: 15 hours
+Cost: 
+Qualification: Microsoft Excel for Beginners Certificate
+Course Access: Lifetime
+Exams Included: Yes 
+Compatibility: All major devices and browsers
+
+Course Description
+One of the most widely used programs for visualising and analysing data is Microsoft Excel. This software is used in almost every industry, not to mention for personal use in households around the world. Small business owners rely on Excel to track hours, finances, and invoices, and large corporations rely on Excel for data analysis, to visualise data, and innumerable other tasks.Whether you are brand new to the world of Excel, or you have training and knowledge of the software and are looking to improve your skills, this series of courses can help. By the time you finish the beginner, intermediate and advanced courses, you, too, will be an expert in Excel.These training videos help you learn at your own pace, as there is no time limit nor deadline to complete the courses. You can also access these courses from any mobile device, including tablets, computers, and mobiles, as long as you have access to the internet.Since the lessons in this course are only a few minutes each, it makes it very convenient for one to stop and start when necessary. This helps to study when you have time, even if you have less than 20 minutes.Introduction to the Microsoft Excel for Beginners CourseThis beginners course is recommended for anyone who might use Excel at home or at work for uncomplicated reasons, such as tracking simple expenditures or for calculating sums or totals. This course is ideal for anyone who has never used Excel or for those who have only a rudimentary understanding of the software. It is also perfect for anyone who is familiar with the older versions of the software, but not the latest version. If you are re-entering the workforce, you will also find that this course will suit you well, and will certainly get you caught up with your peers.The course begins with explaining concepts, such as ‘What is a cell?’ and how to tell the difference between a column and a row. The course continues by explaining basic Excel concepts such as how to create, copy, delete, and cut information from Excel cells. You will also learn how to edit information that is put into a cell and how to insert and edit comments when using Excel.The second half of the beginners Excel overview, which is only a small part of the beginners course, will cover sheets, which is an entirely different concept than cells. In this section, you will learn how to rename a sheet, delete a sheet, hide and unhide a sheet, and move and copy a sheet. You will also learn how to change the colour of tabs.After mastering the beginners overview, the rest of the beginners course will go further into these concepts, and then teach details on how to perform basic functions.Each video in the course gives a full explanation of the concept and the instructor visually takes students through each concept step by step on the screen.When you finish this course, you will have a basic understanding of how to use many of the functions of Excel, and can use the program with ease. You will then be fully prepared to move ahead to the intermediate course.The MS Excel beginners course will give you a full overview of all of the most common features of Excel and how to use them. Some of the highlights of this course include:
+
+
+A basic overview of Excel
+Calculating sums, averages, and totals
+Counting cells
+Learning formulas, such as IF, COUNTIF, SUMIF, VLOOKUP, HLOOKUP, and AVERAGEIF
+Pivot tables
+Inserting, editing, and deleting comments
+Creating borders
+Wrapping text
+Merging cells
+Pasting, sorting, and converting columns to rows
+Creating graphs and charts
+Using the dictionary
+
+
+Nothing found for course benifits info.
+
+Course Lessons
+Module 1 : Introduction to Excel
+Module 2 : Add
+Module 3 : Multiply
+Module 4 : Subtraction in Excel
+Module 5 : Dividing
+Module 6 : Sort
+Module 7 : Percentage
+Module 8 : Running Totals
+Module 9 : Print
+Module 10 : Paste Special
+Module 11 : Merge
+Module 12 : Filter
+Module 14 : AVERAGEIF
+Module 15 : SUMIF Formula
+Module 16 : IF Formula
+Module 17 : VLOOKUP
+Module 18 : HLOOKUP
+Module 19 : COUNTIF Formula
+Module 20 : COUNTBLANK
+Module 29 : Doughnut Charts
+Module 28 : Pie Charts
+Module 27 : Pivot Tables
+Module 25 : DATE Formula
+Module 26 : MONTH Formula
+Module 23 : CONCATENATE
+Module 21 : COUNTA Formula
+Module 31 : Column Charts
+Module 32 : Bar Charts
+Module 33 : Number Formatting
+Module 34 : Create Borders
+Module 35 : Conditional Formatting
+Module 36: Comments
+Module 22 : COUNT Formula
+Module 24 : TRANSPOSE
+Module 30 : Line Charts
+Module 13 : AVERAGE

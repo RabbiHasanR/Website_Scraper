@@ -1,0 +1,304 @@
+Course details 
+Course Code: UKMG16CMD
+Location: Online
+Duration: 90 hours
+Cost: 
+Qualification: The Microsoft Office Diploma
+Course Access: Lifetime
+Exams Included: Yes 
+Compatibility: All major devices and browsers
+
+Course Description
+This comprehensive and all-encompassing course on the most popular and widely used Microsoft Office programs aims to provide you with thorough and detailed knowledge in all areas of Microsoft Office. In fact, this bumper course combines the content of six individual courses, making it the ideal package for those of you who want to solidify your learning on Microsoft Office, for either professional or personal reasons.Those who work in an office environment or who are re-entering the workplace after a break will really benefit from the structured learning that this course offers, allowing you to hit the ground running at work. However, the course is equally useful for those using Microsoft Office in a personal capacity, as many tasks that you need to do on your home PC will likely involve working on these programs.Each of the courses which make up this bumper course has been tailor-made to incorporate the key information and skills that you need in order to improve your proficiency in each area of Microsoft. The courses are run with training videos, allowing you to work in an interactive way, and at your own pace.Let’s take a more detailed look at what each course offers you:The combined course covers the following courses in full:The first of our Microsoft Excel courses is perfect for those individuals who are new to this program or who need to brush up their basic skills with more practice. Completion of this course also offers the ideal foundation before moving on to the more advanced units. It offers simple and clear definitions of some of the key terminology within Excel, such as cells, rows and columns and how to input, edit and delete data. There is also an introductory section on how to create and work with basic formulas and pivot tables, which will be covered in more detail in the Intermediate and Advanced units.The course also covers how to work with worksheets and tabs in Excel, such as renaming, deleting, hiding, moving and copying.This unit builds upon the progress that you have made in the Beginners unit to look at more complex functions within Excel such as averages, medians, modes and roundings and the best methods to manipulate such functions to help you to get the information that you want out of the program.In addition, formatting methods within Excel are covered, including changing texts and backgrounds, adding special characters and using AutoFill options.This unit is the most comprehensive and detailed of the three and aims to prepare you for jobs or situations where you require a thorough and proficient level of Excel. This unit really gets into the detail of the analytical functions of Excel, including more complex formulas such as MATCH, INDEX and VLOOKUP and, crucially, how to decide upon the most appropriate formula for a particular calculation. After completing this unit, you should feel confident to use and manipulate the largest range of Excel formulas and be able to use Excel to its full functionality.The ability to use Microsoft Word effectively is a crucial requirement of many office based roles. This course on Microsoft Word is an all-encompassing source of information which offers you the opportunity to enhance your skills in this widely-used program. You will learn a wide range of skills here, from the basics of entering text into a Word document, to how to use some of the editing and formatting tools available, including using the toolbars and various design features such as headers and hyperlinks, and many other aspects.PowerPoint is a very useful program for those who are responsible for creating and delivering presentations in the workplace. By completing this course, you are taking a big step towards ensuring that your slideshows are professional and polished. The course starts from the beginning, assuming no prior knowledge of the area, and covers the creation of a PowerPoint presentation and the addition and editing of slides within it. You will also learn how to insert and format text, tables, images and graphics into your slides and how to effectively use SmartArt to give your presentations an extra special edge. You will learn effective methods to use linking and annotation features, as well as how to insert notes, comments and handout tools for your presentation.Microsoft Outlook is very widely used as an email and organisation program in both professional and personal contexts and a solid familiarisation with its functionality will help you to really get the best out of using it. Our course will help you to get to grips with composing and responding to emails, including adding attachments and automatic signatures and creating out of office messages. It will help you to set up lists of contacts and create advanced rules to help Outlook work seamlessly for you. You will also learn all about the calendar functionalities, including how to set up meetings, navigating calendars and assigning tasks to others.Studying with us to achieve success in our Microsoft Office combined course can offer you many benefits; not least the confidence and ability to professionally and effectively work with some of the most frequently used administration and workplace systems in the world. Here are some of the other benefits that you can enjoy by undertaking this course:
+
+
+Microsoft Excel for Beginners Certificate
+Microsoft Excel Intermediate Certificate
+Microsoft Excel Advanced Certificate
+Microsoft Word Certificate
+Microsoft PowerPoint Diploma
+Microsoft Outlook Diploma.
+
+
+
+The course is intuitive and easy to follow, allowing you to work at your own pace and revisit key concepts or areas of difficulty as you need
+You can study at home, in your free time and on any compatible electronic device, making access simpler than ever
+The courses come complete with video training, helping you to solidify your learning
+We offer full online support from our specialists as you progress through the course
+There are no entry requirements – simply a willingness to learn
+You will receive an industry recognised certification upon successful completion of the course.
+
+
+Course Lessons
+Module 1 : Introduction to Excel
+Module 2 : Add
+Module 3 : Multiply
+Module 4 : Subtraction in Excel
+Module 5 : Dividing
+Module 6 : Sort
+Module 7 : Percentage
+Module 8 : Running Totals
+Module 9 : Print
+Module 10 : Paste Special
+Module 11 : Merge
+Module 12 : Filter
+Module 14 : AVERAGEIF
+Module 15 : SUMIF Formula
+Module 16 : IF Formula
+Module 17 : VLOOKUP
+Module 18 : HLOOKUP
+Module 19 : COUNTIF Formula
+Module 20 : COUNTBLANK
+Module 29 : Doughnut Charts
+Module 28 : Pie Charts
+Module 27 : Pivot Tables
+Module 25 : DATE Formula
+Module 26 : MONTH Formula
+Module 23 : CONCATENATE
+Module 21 : COUNTA Formula
+Module 31 : Column Charts
+Module 32 : Bar Charts
+Module 33 : Number Formatting
+Module 34 : Create Borders
+Module 35 : Conditional Formatting
+Module 36: Comments
+Module 22 : COUNT Formula
+Module 24 : TRANSPOSE
+Module 30 : Line Charts
+Module 13 : AVERAGE
+Module 1: SumProduct Formula
+Module 2 : Data Validation With Date
+Module 3 : Data Validation with Whole Numbers
+Module 4 : Data Validation with List Feature
+Module 5 : ABS Function
+Module 6 : CHAR Function
+Module 7 : CLEAN Function
+Module 8 : CODE Function
+Module 9 : EXACT Function
+Module 10 : AVERAGEA Function
+Module 11 : AVERAGEIF
+Module 12 : AVERAGEIFS Function
+Module 13 : CELL Function With 10 Variations
+Module 14 : LARGE Function
+Module 15: MAX Function
+Module 16: MEDIAN Function
+Module 17: MIN Function
+Module 18: MODE Function
+Module 19 : N Function
+Module 20 : RANDBETWEEN Function (Insert Random Numbers)
+Module 21 : RANK Function
+Module 22 : Remove Duplicate Values
+Module 23 : ROUND Function Up/Down
+Module 24 : Add Custom Background Image
+Module 25: Change Text To Lower Case
+Module 26: Change Text To Upper Case
+Module 27: Change Text To Proper Case
+Module 28: Insert Special Character
+Module 29: Use Autofill : A Time Saving Trick
+Module 30: Treemap Chart
+Module 31: Sunburst Chart
+Module 32: Use Tables
+Module 33: Use Templates
+Module 34: Use Themes
+Module 1: Add a Password
+Module 2 : AND Function
+Module 3 : Auto Updating Drop-down Lists
+Module 4 : CEILING Formula
+Module 5 : Charts that Update Automatically
+Module 6 : CHOOSE Formula
+Module 7 : Compare 2 Lists with VLOOKUP Function
+Module 8 : CORREL Function
+Module 9 : Create an Advanced Calculator
+Module 10 : Create a Combo Chart
+Module 11 : Create a Custom Tab
+Module 12 : Create a Pivot Chart
+Module 13 : Create Visual In-cell Indicators
+Module 14 : Create Visual In-cell Indicators with Icon Sets
+Module 15: Customise the Status Bar
+Module 16: DATEDIF Function
+Module 17: DATEVALUE Function
+Module 18: DAVERAGE Function
+Module 19 : DCOUNT Function
+Module 20 : DCOUNTA Function
+Module 21 : Depreciation Formula
+Module 22 : DGET Function
+Module 23 : DMAX Function
+Module 24 : DPRODUCT
+Module 25: DSUM Function
+Module 26: EDATE Function
+Module 27: EOMONTH Function
+Module 28: Find and Replace
+Module 29: FIND Function
+Module 30: INDEX Function
+Module 31: INDEX MATCH Function
+Module 32: INDIRECT Function
+Module 33: Insert Serial Number Automatically
+Module 34: IPMT Function
+Module 35: ISBLANK Function
+Module 36: ISERR Function
+Module 37: ISLOGICAL Function
+Module 38: ISNONTEXT Function
+Module 39: ISNUMBER Function
+Module 40: ISODD Function
+Module 41: Isolate First Name
+Module 42: ISTEXT Formula
+Module 43: LEFT Function
+Module 44: LEN Function
+Module 45: MATCH Function
+Module 46: VLOOKUP Multiple Results at Once
+Module 47: OR Function
+Module 48: PMT Function
+Module 49: REPLACE Function
+Module 50: Select all Cells with Comments
+Module 51: Sparkline Charts in Excel
+Module 52: Straight Line Depreciation
+Module 53: Strikethrough
+Module 54: Sum of Years Depreciation
+Module 55: Timeline in Pivot Table
+Module 56: VLOOKUP with 2 Criteria
+Module 57: VLOOKUP with DropDown List
+Module 58: VLOOKUP with MAX
+Module 59: VLOOKUP with MIN
+Module 60: Watch Window In Excel
+Module 1: Entering Text
+Module 2: Deleting Text
+Module 3: Splitting and Joining Text
+Module 4: Undo and Redo
+Module 5: Find and Replace
+Module 6: Text Block
+Module 7: Spell Check
+Module 8: Check Word Count
+Module 9: Format Text
+Module 10: Printing a Document
+Module 11: Format a Page
+Module 12: Using Sections
+Module 13: Create a Cover Page
+Module 14: Create Headers
+Module 15: Edit Headers
+Module 16: Using Styles
+Module 17: Create Your Own Formatting Style
+Module 18: Applying a Theme
+Module 19: Modifying a Theme
+Module 20: Create a Border
+Module 21: Edit Border
+Module 22: Create Page Border
+Module 23: Create a Table
+Module 24: Editing a Table
+Module 25: Use Format Painter
+Module 26: Create Line Numbers
+Module 28: Insert Image
+Module 27: Create Automatic Table of Contents
+Module 29: Insert Shapes
+Module 30: Insert Clip Art
+Module 31: Use Comments
+Module 32: Save As
+Module 33: View Two Documents Side By Side
+Module 34: Insert Video
+Module 35: Mix Image and Text
+Module 36: Insert Symbols / Special Characters
+Module 37: Enter Footnote and Endnote
+Module 38: Use Layouts
+Module 40: Handle Multiple Documents
+Module 39: Insert SmartArt
+Module 41: Convert MS Word File to Other Format
+Module 42: Remove Comments When Printing
+Module 43: Insert Text Box
+Module 44: WordArt
+Module 45: Position Images
+Module 46: Unlinking Images from Text
+Module 47: Convert File to PDF
+Module 48: Highlight Text
+Module 49: Configure Status Bar
+Module 50: Quick Access Toolbar
+Module 51: Hide/Display Ribbon
+Module 52: Add Hyperlink
+Module 53: Use Thesaurus
+Module 1: Navigating PowerPoint
+Module 2 : Work with Slides
+Module 3 : Work with Multiple Layouts
+Module 4 : Work with Text
+Module 5 : Work with Text Pt2
+Module 6 : Working with Text Pt3
+Module 7 : Tables
+Module 8 : Insert an Image
+Module 9 : Create a Photo Album
+Module 10 : Use Shapes
+Module 11 : Smart Art
+Module 12 : Text Boxes
+Module 13 : Headers & Footers
+Module 14 : Use Videos
+Module 15: Use Audio
+Module 16: Recording Screen & Audio
+Module 17: Slide Design
+Module 18: Transition
+Module 19 : Animations
+Module 20 : Spell Check
+Module 21 : Thesaurus
+Module 22 : Comments
+Module 23 : Inking
+Module 24 : Outline View
+Module 25: Slide Sorter
+Module 26: Notes Page
+Module 27: Reading View
+Module 28: Handout Master
+Module 29: Notes Master
+Module 30: Zoom View
+Module 31: New Window Option
+Module 32: Cascade and Arrange Window Option
+Module 33: Left Side Menu
+Module 34: Templates
+Module 35: Open Command
+Module 36: Save As Option
+Module 37: Print Command
+Module 38: Convert PPT to PDF
+Module 39: Convert PPT to Video
+Module 40: Create Handouts
+Module 41: Customise the Quick Access Toolbar
+Module 42: Password Protect a PPT
+Module 43: Find and Replace
+Module 44: Replace Command
+Module 45: Hyperlinks
+Module 1: Compose an Email
+Module 2 : Read an Email
+Module 3 : Reply to an Email
+Module 4 : Reply to All and Forward an Email
+Module 5 : Add Attachment to an Email
+Module 6 : View and Save Attachments
+Module 7 : Add Signatures
+Module 8 : Adding an IMAP or POP Account Manually
+Module 9 : Backing Up or Moving Outlook
+Module 10 : Connecting to a OneDrive account
+Module 11 : Create New Folder in Outlook
+Module 12 : Organising Mail Into Folders
+Module 13 : Navigating Tasks
+Module 14 : Navigate People Hub and Create a Contact
+Module 15: Create New Contact Group
+Module 16: Working with Contacts
+Module 17: Create Rules to Manage Emails in Outlook
+Module 18: Create Voting Buttons in a Message
+Module 19 : Create a Meeting
+Module 20 : Responding to, Cancelling and Editing a Meeting
+Module 21 : Creating an Appointment
+Module 22 : Creating Follow-up Flags
+Module 23 : Creating Notes
+Module 24 : Creating Personal Stationery
+Module 25: Search Email
+Module 26: Creating Search folders
+Module 27: Exploring Delivery Options
+Module 28: Exploring Other Mail Settings
+Module 29: Format an Email
+Module 30: Ignoring Conversations and Flagging as Junk
+Module 31: Mailbox Clean Up Tools
+Module 32: Manage Inbox
+Module 33: Navigating the Calendar
+Module 34: Opening Other Calendars
+Module 35: Creating Additional Calendars
+Module 36: Setting Calendar Preferences
+Module 37: Printing and Emailing the Calendar
+Module 38: Out of Office Reply for POP and IMAP
+Module 39: Reusing Text by Creating Quick Parts
+Module 40: Sending or Receiving Emails Manually
+Module 41: Setting Advanced General Outlook Options
+Module 42: Using Conditional Formatting to Change Font and Colour
+Module 43: Using Filters and the People Pane
+Module 44: Using Quick Steps

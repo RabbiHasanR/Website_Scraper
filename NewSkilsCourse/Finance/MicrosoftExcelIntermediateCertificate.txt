@@ -1,0 +1,66 @@
+Course details 
+Course Code: UKFEC16MXI
+Location: Online
+Duration: 10 hours
+Cost: 
+Qualification: Microsoft Excel Intermediate Certificate
+Course Access: Lifetime
+Exams Included: Yes 
+Compatibility: All major devices and browsers
+
+Course Description
+The MS Excel Intermediate Course will take what you learnt in the beginners course and expand upon it. Additionally, this course will teach you more advanced concepts than those that were presented in the beginners course.Some of the highlights of the intermediate Excel course include the following:Before jumping into the MS Excel Intermediate course, one should have a good basic overview of the beginner Excel functions. Those with experience in Excel might feel as if they can skip the beginner course, but it is best to at least go through the course and review it before starting the intermediate curriculum.Like the beginner course, the intermediate course is set up into short modules, and you can watch the module videos on any device that can connect to the internet. The curriculum in the intermediate course is designed for those who work with Excel in the workplace, and it is primarily for those who want to improve their skills with this program. There is a lot of useful information found in this course, and these skills are necessary for anyone who is going into investments, banking, or consulting, and will also be useful for administrators or for those who track or analyse a lot of data. If you are someone who is new to the workforce, you, too, will find that employers are looking for candidates with at least intermediate Excel skills.The course teaches students how to use functions, including AVERAGEA, AVERAGEIF, AVERAGEIFS and ABS. You will also learn data validation information and students work through several modules, each of which are focused on a type of data validation, such as date, list, and time. The course deals with more information on specific functions, which include CHAR, CODE, MEDIAN, MODE, and ROUND. Additional information is given on how to manipulate these functions to meet your needs as an Excel user.Other information in the MS Excel Intermediate Course includes how to change the text in Excel, i.e. changing text to all upper case or lower case. You will also learn how to change the background and add a custom image, how to use AutoFill and how to insert special characters.Upon completion of this course, you will know about most of the functions that Excel has, and how to use this software at an intermediate level. Additionally, you will have the skills necessary to use Excel in most business environments. You will also be fully prepared to begin the MS Excel Advanced Course.
+
+
+Learning more about intermediate Excel functions including ABS, AVERAGEIF, AVERAGEIFS, and AVERAGEA
+Data validation with date, list, time, and numbers
+Functions such as RANK, MIN, MAX, CHAR, MODE, MEDIAN, CODE, CLEAN, and EXACT
+How to remove duplicates in Excel
+Creating random numbers
+Changing text case
+How to use Templates
+Insert Charts
+Adding custom backgrounds
+How to use Tables
+How to auto fill data
+Adding special characters
+Changing border colour and theme
+
+
+Nothing found for course benifits info.
+
+Course Lessons
+Module 1: SumProduct Formula
+Module 2 : Data Validation With Date
+Module 3 : Data Validation with Whole Numbers
+Module 4 : Data Validation with List Feature
+Module 5 : ABS Function
+Module 6 : CHAR Function
+Module 7 : CLEAN Function
+Module 8 : CODE Function
+Module 9 : EXACT Function
+Module 10 : AVERAGEA Function
+Module 11 : AVERAGEIF
+Module 12 : AVERAGEIFS Function
+Module 13 : CELL Function With 10 Variations
+Module 14 : LARGE Function
+Module 15: MAX Function
+Module 16: MEDIAN Function
+Module 17: MIN Function
+Module 18: MODE Function
+Module 19 : N Function
+Module 20 : RANDBETWEEN Function (Insert Random Numbers)
+Module 21 : RANK Function
+Module 22 : Remove Duplicate Values
+Module 23 : ROUND Function Up/Down
+Module 24 : Add Custom Background Image
+Module 25: Change Text To Lower Case
+Module 26: Change Text To Upper Case
+Module 27: Change Text To Proper Case
+Module 28: Insert Special Character
+Module 29: Use Autofill : A Time Saving Trick
+Module 30: Treemap Chart
+Module 31: Sunburst Chart
+Module 32: Use Tables
+Module 33: Use Templates
+Module 34: Use Themes

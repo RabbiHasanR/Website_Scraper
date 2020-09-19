@@ -1,0 +1,44 @@
+Course details 
+Course Code: UKFEC17CBC
+Location: online
+Duration: 12 hours
+Cost: 
+Qualification: Coding for Beginners Certificate
+Course Access: Lifetime
+Exams Included: Yes 
+Compatibility: All major devices and browsers
+
+Course Description
+Taking this fast track course will be beneficial if you are looking to become an IT professional or considering a career switch. But even if you don’t want to work as a coder, taking this course would expand your technical knowledge and confidence and give you a new perspective on the technological changes in the world. Anyone can learn to code!The course contains the essential concepts that anyone who is new to coding should learn in order to start writing simple code. This course is designed with the beginner in mind and packed full of example code in Python - one of the most popular general purpose coding languages in the last couple of years.By the end of the course, you will also know a lot about object-oriented programming, and learning these fundamental principles will not only give you a background for further study, but will show you another way to think about the world from a machine’s point of view.The aim of the course is to help you write and run your first lines of actual code. It is a practical course with fun coding activities and exercises as well as all the needed material to guide you in completing them.There are a number of benefits to taking this course, which include:
+
+
+The history of coding including all notable achievements and computer prototypes
+The main components of a computing machine for storing digital information in binary
+How to create variables, set their data types and use operators for complex calculations
+Controlling the flow of the program by writing conditional statements for recursion
+How to use built-in functions and write your own self-contained code
+How to organise your code in modules and packages that can reference each other
+The ideas behind Object-Oriented coding
+How to construct programs using structures such as classes and instances
+
+
+
+A comprehensive, practical and easy-to-understand course material
+Example code with comprehensive explanations using the Python coding language
+End of module activities and a final test which are designed to expand your overall understanding and put what you’ve learned into action
+Can be completed anywhere with an Internet connection
+Gaining relevant knowledge about an ever-growing industry, which will provide you with practical skills for the workforce
+Being able to write simple Python programs at the end of the course
+
+
+Course Lessons
+Module 1: Evolution of Computers and Coding
+Module 2: Getting ready to code
+Module 3: Mathematics Basics
+Module 4: Variables & Data Types
+Module 5: Working with variables using operators and data type conversion
+Module 6: Controlling the flow of code using conditional statements and loops
+Module 7: Working with Built-in and User-defined Functions
+Module 8: Organising code into modules and packages
+Module 9: Creating Object Oriented programs using classes and instances
+Module 10: Reusing code by inheritance, external files and third-party packages

@@ -1,0 +1,31 @@
+Course details 
+Course Code: UKVC18GDP
+Location: Online
+Duration: 2 hours
+Cost: 
+Qualification: GDPR Certificate
+Course Access: Lifetime
+Exams Included: Yes 
+Compatibility: All major browsers and devices
+
+Course Description
+Over the years, the way companies and organisations collect, use and maintain data has changed dramatically. For example, the electronic storage of data is a relatively new concept and one that has not always been adequately addressed by existing legislation.With these changes in mind, the European Union (EU) has created the General Data Protection Regulation (GDPR). Experts believe that it is one of the most important pieces of data protection legislation drafted within the last 20 years. It is important that everyone involved in the collection, storage and processing of personal data be aware of the GDPR and its implications. This course is an introduction to the scope and purpose of the GDPR. 
+
+
+What the GDPR is, why it was introduced, when it came into effect, its relationship to previous legislation and who must comply with the new rules.
+The principles underlying the GDPR, the bases on which an organisation is permitted to collect and process data and how the GDPR makes provision for the handling of highly sensitive personal information.
+The rights granted to individuals under the GDPR and what this means for organisations who collect and process data.
+
+
+
+If your job entails regular collection, storage or handling of personal data, this course will provide you with an invaluable introduction to your obligations under the GDPR.
+If you own a business, this course will help you understand when and how you may collect data from clients and consumers and process it in a lawful manner.
+If you work in a management role, this course will help you advise members of your team with regards to handling and processing consumer data.
+If you are responsible for implementing data handling and processing policies at your place of work, this course will give you a good starting point from which to draft them.
+If you are interested in consumer rights and privacy law, the information in this course will be of general interest to you.
+
+
+Course Lessons
+Module 1: What is the General Data Protection Regulation?
+Module 2: The Main Principles Underpinning the GDPR
+Module 3: Individual Rights under the GDPR

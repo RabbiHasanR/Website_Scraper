@@ -1,0 +1,161 @@
+Course details 
+Course Code: UKMGC16EXL
+Location: Online
+Duration: 40 hours
+Cost: 
+Qualification: The Complete Microsoft Excel Course Collection
+Course Access: Lifetime
+Exams Included: Yes 
+Compatibility: All major devices and browsers
+
+Course Description
+One of the most widely used programs in the world for visualising and analysing data is Microsoft Excel. This software is used in almost every industry, not to mention for personal use in households around the world. Small business owners rely on Excel to track hours, finances and invoices and large corporations rely on Excel for data analysis, to visualise data and innumerable other tasks.Whether you are brand new to the world of Excel or you have training and knowledge of the software and are looking to improve your skills, this series of courses can help. By the time you finish the beginner, intermediate and advanced courses, you, too, will be an expert in Excel.There is no time limit or deadline to complete the courses. You can access these courses from any mobile device, including tablets, computers and mobiles, as long as you have access to the internet.Since the lessons in this course are only a few minutes each, it makes it very convenient to stop and start when necessary. This helps to study when you have time, even if you have less than 10 minutes or 15 minutes.The following is an overview of each of the three Excel courses:The MS Excel beginners course will give you a full overview of all of the most common features of Excel and how to use them.Some of the highlights of this course include:This beginners course is recommended for anyone who might use Excel at home or at work for uncomplicated reasons, such as tracking simple expenditures or for calculating sums or totals. This course is ideal for anyone who has never used Excel or for those who have only a rudimentary understanding of the software. It is also perfect for anyone who is familiar with the older versions of the software, but not the latest version. If you are re-entering the workforce, you will also find that this course will suit you well and will certainly get you caught up with the rest of your peers.The course begins with explaining concepts, such as ‘What is a cell?’ and how to tell the difference between a column and a row. The course continues by explaining basic Excel concepts such as how to create, copy, delete and cut information from Excel cells. You will also learn how to edit information that is put into a cell and how to insert and edit comments when using Excel.The second half of the beginner’s Excel overview, which is only a small part of the beginner’s course, will cover sheets, which is an entirely different concept than cells. In this section, you will learn how to rename a sheet, delete a sheet, hide and unhide a sheet and move and copy a sheet. You will also learn how to change the colour of tabs.After mastering the beginner’s overview, the rest of the beginner course will go further into these concepts and then teach details on how to perform basic functions.Each video in the course shows where one can learn more about the concept covered in the course, as well as the difficulty level of the concept. There is also a full explanation of the concept and the instructor of the course visually takes students through each concept step by step on the screen.When you finish this course, you will have a basic understanding of how to use many of the functions of Excel and use the program with ease. You will then be fully prepared to move ahead to the intermediate course.The MS Excel Intermediate Course will take what you learnt in the beginner course and expand upon it. Additionally, this course will teach you more advanced concepts than those that were presented in the beginner course.Some of the highlights of the intermediate Excel course include the following:Before jumping into the MS Excel Intermediate course, one should have a good basic overview of the beginner Excel functions. Those with experience in Excel might feel as if they can skip the beginner course, but it is best to at least go through the course and review it before starting the intermediate curriculum.Like the beginner course, the intermediate course is set up into short modules and you can watch the module videos on any device that can connect to the internet. The curriculum in the intermediate course is designed for those who work with Excel in the workplace and it is primarily for those who want to improve their skills with this program. There is a lot of useful information found in this course and these skills are necessary for anyone who is going into investments, banking or consulting and will also be useful for administrators or for those who track or analyse a lot of data. If you are someone who is new to the workforce, you, too, will find that employers are looking for candidates with at least intermediate Excel skills.The first several modules of the intermediate Excel course teaches students how to use formulas, including HLOOKUP, VLOOKUP, COUNTIF and ABS. Data validation information follows this and students work through several modules, each of which are focused on a type of data validation, such as date, list and time. The course continues with more information on specific formulas, which include CHAR, CODE, MEDIAN, MODE and ROUND. Additional information is given on how to manipulate these formulas to meet your needs as an Excel user.Other information in the MS Excel Intermediate Course includes how to change the text in Excel, i.e. changing text to all upper case or lower case. You will also learn how to change the background and add a custom image and information on auto-filling in Excel. Finally, this course will teach students how to use AutoFill, how to insert special characters and how to draw borders.Upon completion of this course, you will know about most of the functions that Excel has and how to use this software at an intermediate level. Additionally, you will have the skills necessary to use Excel in most business environments. You will also be fully prepared to begin the MS Excel Advanced Course.The MS Excel Advanced Course is the longest and the most comprehensive of the three Excel courses presented here. However, if you have successfully passed the beginner and the intermediate courses, you should consider yourself fully prepared to begin the advanced course.Formulas, or functions, are what advanced users of Excel want from this tool. When one uses formulas, not only can they see the data they require for their work, they can also analyse it and get answers to very complex questions. Though any person with a small amount of Excel knowledge can use formulas, such as SUM, a user who has advanced Excel skills will use other formulas, both alone and combined, such as MATCH, INDEX, DSUM and VLOOKUP. In addition to knowing these formulas, those who are advanced users of Excel know how to debug these formulas, how to audit them and how to choose the perfect formula for the occasion.Some of the concepts that you will learn in the MS Excel Advance Course include the following:As you can see, the information you will get from the MS Excel Advanced Course will fully prepare you for virtually any career path, including those that require advanced skills with this software. Once you complete the advanced course, you will have access to the full functionality of Excel and will know how to use all formulas, functions and capabilities. Though this course is the longest and most involved of the three, once you complete it, you will have the knowledge and skills that most can only dream of.This course opens with a focus on the VLOOKUP formula and several modules teach students how to use this function in their work. The course continues with modules on the OR and AND commands and then focuses on other functions, such as REPLACE, LEN, LEFT and FIND.You will also learn about calculating depreciation, calculating interest and even calculating IPMT and EMI for loans, all by using Excel functions. Additionally, the course features information on INDEX and MATCH functions, which is extremely important in certain industries and positions. The course also shows students how to use the CHOOSE formula and how to create special charts. Finally, the course will show how to automatically enter serial numbers and perform extremely advanced functions.The advanced Excel course is designed for power users. The general population would not use the information contained within this course, but there are some features taught in the advanced course that can make your Excel usage easier. However, it is recommended that those who take this Excel course continue with the advanced course for a number of reasons. First, getting more knowledge about Excel can help you to master the beginner and intermediate concepts. Additionally, no one has ever lost anything by having more knowledge. You might find that knowing this information will help you in the future, too, as you never know when the organisation you work for might require the services of an Excel expert. These people are paid quite well and are an invaluable addition to most companies.Too many people believe that advanced Excel concepts are only useful for those who are interested in programming or concepts such as financial modelling. This, however, is not totally true. The actual truth is that the information contained within this course could be the key to your next promotion or your next job.All three of these courses are designed to improve the knowledge you have with Excel, no matter if you are a beginner, intermediate, or an advanced user. Since these courses are divided into sections, you will also find that they are convenient and it is possible to learn and study during your free time. Additionally, as the modules in the courses are only a few minutes long, for the most part, you don’t have to take a lot of time during your day to focus on an individual module. Finally, since these courses are available online, again, you can access them from any internet-enabled device.
+
+
+A basic overview of Excel
+Calculating sums, averages and totals
+Counting cells
+Learning formulas, such as IF, COUNTIF, SUMIF, VLOOKUP, HLOOKUP and AVERAGEIF
+Pivot tables
+Inserting, editing and deleting comments
+Creating borders
+Wrapping text
+Merging cells
+Pasting, sorting and converting columns to rows
+Creating graphs and charts
+Using the dictionary
+
+
+Nothing found for course benifits info.
+
+Course Lessons
+Module 1 : Introduction to Excel
+Module 2 : Add
+Module 3 : Multiply
+Module 4 : Subtraction in Excel
+Module 5 : Dividing
+Module 6 : Sort
+Module 7 : Percentage
+Module 8 : Running Totals
+Module 9 : Print
+Module 10 : Paste Special
+Module 11 : Merge
+Module 12 : Filter
+Module 14 : AVERAGEIF
+Module 15 : SUMIF Formula
+Module 16 : IF Formula
+Module 17 : VLOOKUP
+Module 18 : HLOOKUP
+Module 19 : COUNTIF Formula
+Module 20 : COUNTBLANK
+Module 29 : Doughnut Charts
+Module 28 : Pie Charts
+Module 27 : Pivot Tables
+Module 25 : DATE Formula
+Module 26 : MONTH Formula
+Module 23 : CONCATENATE
+Module 21 : COUNTA Formula
+Module 31 : Column Charts
+Module 32 : Bar Charts
+Module 33 : Number Formatting
+Module 34 : Create Borders
+Module 35 : Conditional Formatting
+Module 36: Comments
+Module 22 : COUNT Formula
+Module 24 : TRANSPOSE
+Module 30 : Line Charts
+Module 13 : AVERAGE
+Module 1: SumProduct Formula
+Module 2 : Data Validation With Date
+Module 3 : Data Validation with Whole Numbers
+Module 4 : Data Validation with List Feature
+Module 5 : ABS Function
+Module 6 : CHAR Function
+Module 7 : CLEAN Function
+Module 8 : CODE Function
+Module 9 : EXACT Function
+Module 10 : AVERAGEA Function
+Module 11 : AVERAGEIF
+Module 12 : AVERAGEIFS Function
+Module 13 : CELL Function With 10 Variations
+Module 14 : LARGE Function
+Module 15: MAX Function
+Module 16: MEDIAN Function
+Module 17: MIN Function
+Module 18: MODE Function
+Module 19 : N Function
+Module 20 : RANDBETWEEN Function (Insert Random Numbers)
+Module 21 : RANK Function
+Module 22 : Remove Duplicate Values
+Module 23 : ROUND Function Up/Down
+Module 24 : Add Custom Background Image
+Module 25: Change Text To Lower Case
+Module 26: Change Text To Upper Case
+Module 27: Change Text To Proper Case
+Module 28: Insert Special Character
+Module 29: Use Autofill : A Time Saving Trick
+Module 30: Treemap Chart
+Module 31: Sunburst Chart
+Module 32: Use Tables
+Module 33: Use Templates
+Module 34: Use Themes
+Module 1: Add a Password
+Module 2 : AND Function
+Module 3 : Auto Updating Drop-down Lists
+Module 4 : CEILING Formula
+Module 5 : Charts that Update Automatically
+Module 6 : CHOOSE Formula
+Module 7 : Compare 2 Lists with VLOOKUP Function
+Module 8 : CORREL Function
+Module 9 : Create an Advanced Calculator
+Module 10 : Create a Combo Chart
+Module 11 : Create a Custom Tab
+Module 12 : Create a Pivot Chart
+Module 13 : Create Visual In-cell Indicators
+Module 14 : Create Visual In-cell Indicators with Icon Sets
+Module 15: Customise the Status Bar
+Module 16: DATEDIF Function
+Module 17: DATEVALUE Function
+Module 18: DAVERAGE Function
+Module 19 : DCOUNT Function
+Module 20 : DCOUNTA Function
+Module 21 : Depreciation Formula
+Module 22 : DGET Function
+Module 23 : DMAX Function
+Module 24 : DPRODUCT
+Module 25: DSUM Function
+Module 26: EDATE Function
+Module 27: EOMONTH Function
+Module 28: Find and Replace
+Module 29: FIND Function
+Module 30: INDEX Function
+Module 31: INDEX MATCH Function
+Module 32: INDIRECT Function
+Module 33: Insert Serial Number Automatically
+Module 34: IPMT Function
+Module 35: ISBLANK Function
+Module 36: ISERR Function
+Module 37: ISLOGICAL Function
+Module 38: ISNONTEXT Function
+Module 39: ISNUMBER Function
+Module 40: ISODD Function
+Module 41: Isolate First Name
+Module 42: ISTEXT Formula
+Module 43: LEFT Function
+Module 44: LEN Function
+Module 45: MATCH Function
+Module 46: VLOOKUP Multiple Results at Once
+Module 47: OR Function
+Module 48: PMT Function
+Module 49: REPLACE Function
+Module 50: Select all Cells with Comments
+Module 51: Sparkline Charts in Excel
+Module 52: Straight Line Depreciation
+Module 53: Strikethrough
+Module 54: Sum of Years Depreciation
+Module 55: Timeline in Pivot Table
+Module 56: VLOOKUP with 2 Criteria
+Module 57: VLOOKUP with DropDown List
+Module 58: VLOOKUP with MAX
+Module 59: VLOOKUP with MIN
+Module 60: Watch Window In Excel
