@@ -13,52 +13,26 @@ class Scraper():
         atag = soup.find("li", {"class": "menu-item menu-item-type-custom menu-item-object-custom menu-item-723369"}).find('a')
         if atag:
             return atag['href']
-        # if myli:
-        #     for li in myli:
-        #         children = li.findChildren("a" , recursive=False)
-        #         if children:
-        #             #print(children[0]['href'],children[0].string)
-        #             return children[0]['href']
 
-    
     def get_course_category(self,link):
         all_course_category=[]
         referer_agent_response=request.Request(link).get_response_using_referer()
         if referer_agent_response['referer'] is not None:
-            soup = BeautifulSoup(referer_agent_response['referer'].content,features="html.parser")  
-            category_menu_ul=soup.find_all('ul',{'class':'menu-cats'})
-            if category_menu_ul:
-                for ul in category_menu_ul:
-                    category_li=ul.find_all('li')
-                    for li in category_li:
-                        category={}
-                        #print(li)
-                        spans=li.find_all('span')
-                        atag=spans[-1].find('a')
-                        if atag:
-                            category['href']=atag['href']
-                            category['category_name']=atag.text
-                        all_course_category.append(category)
+            soup = BeautifulSoup(referer_agent_response['referer'].content,features="html.parser")
+            all_category_options=soup.find('select',{'class':'course_category_filter'}).find_all('option')
+            for option in all_category_options:
+                category={}
+                if option.text!='Choose Category':
+                    category['href']=option['value']
+                    category['category_name']=option.text
+                    all_course_category.append(category)
         return all_course_category
-
-                        # #print(spans)
-                        
-                        # for s in spans:
-                        #     #print(s)
-                        #     a_tag=s.findChildren('a',recursive=False)
-                        #     #print(a_tag)
-                        #     if a_tag:
-                        #         # print(a_tag[0]['href'],a_tag[0].string)
-                        #         category['href']=a_tag[0]['href']
-                        #         category['category_name']=a_tag[0].string
-                        # all_course_category.append(category)
-        # return all_course_category
 
 
     def get_courses(self):
         referer_agent_response=request.Request(self.url).get_response_using_referer()
         if referer_agent_response['referer'] is not None:
-            link=self.all_course_link(referer_agent_response['referer'])
+            link=self.get_all_course_link(referer_agent_response['referer'])
             #print(link)
             course_categorys=self.get_course_category(link)
             print(course_categorys)
@@ -99,6 +73,7 @@ class Scraper():
 
     
     def get_course_header_and_details_page_link(self,link,category_name):
+        pass
         
     
     def get_course_and_furture_details(self,course_content_div):
@@ -163,7 +138,7 @@ class Scraper():
         ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
         directory_name='NewSkilsCourse'
         path = os.path.join(ROOT_DIR, directory_name) 
-        if not os.path.exists(path)
+        if not os.path.exists(path):
             os.mkdir(path)
         return path
     
